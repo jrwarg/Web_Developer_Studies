@@ -1,2 +1,2 @@
 # Web_Developer_Studies
-HTML, CSS, Javascript, DataBase, 
+HTML, CSS, first Javascript projects
