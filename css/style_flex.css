@@ -1,0 +1,42 @@
+.container {
+   display: flex;
+   flex-direction: row; 
+    align-items: flex-start;
+    justify-content: center;
+   background-color: #DDDDDD;
+   height: 150px;
+
+}
+.container div {
+   
+    width: 100px;
+    height: 100px;
+    background-color: #e42525;
+    margin: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.div1 {
+    margin-top: 20px;
+    background-color: red;
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+
+}
+.div2 {
+   
+    background-color: red;
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+}
+.div3 {
+
+    background-color: red;
+    margin: 5px;
+    padding: 10px;
+    font-size: 18px;
+}
+

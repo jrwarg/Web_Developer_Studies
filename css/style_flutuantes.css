@@ -1,0 +1,30 @@
+.body{
+    margin:0;
+    box-sizing: border-box;
+}
+
+.texto {
+    width: 300px;
+    height: 1000px;
+    background-color: #EEEEEE;
+    font-size: 20px;
+    color: darkslateblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.flutuante{
+    height: 100px;
+    background-color: red;
+    color: white;
+    /*
+    position: absolute; => fica independente, solto, acima do nível dos outros elementos*/
+    position: fixed;  /* não scrola, fica fixado  */
+    
+    right: 0px;
+    bottom: 0px;
+}
