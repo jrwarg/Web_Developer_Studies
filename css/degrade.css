@@ -1,0 +1,11 @@
+body{
+    margin:0;
+}
+
+.exemplo{
+    width: 500px;
+    height: 200px;
+    /* background-image: linear-gradient(to top right, #e30613, #ffed00); */
+    background-image: linear-gradient(150deg, #e30613, #ffed00);
+    
+}
